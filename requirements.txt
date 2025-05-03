@@ -1,0 +1,3 @@
+numpy>=1.19.0
+sounddevice>=0.4.1
+# Requires Python >=3.7 (documented)

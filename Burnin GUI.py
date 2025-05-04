@@ -1,7 +1,7 @@
 """
-Sony WH-1000XM5 Headphone Burn-in Tool v5.1
+ WH-1000XM5 Headphone Burn-in Tool v5.1
 
-This program automates the burn-in process for Sony WH-1000XM5 headphones to optimize audio performance.
+This program automates the burn-in process for  WH-1000XM5 headphones to optimize audio performance.
 It generates specific audio signals (sine waves, pink noise) for different burn-in phases, with customizable presets.
 Features include:
 - Two presets: Quick Test and Standard Burn-in
@@ -282,7 +282,7 @@ class XM5BurnInEngine:
 class XM5BurnInApp(tk.Tk):
     def __init__(self):
         super().__init__()
-        self.title(f"Sony WH-1000XM5 Burn-in Tool v5.1 ({platform.system()})")
+        self.title(f" WH-1000XM5 Burn-in Tool v5.1 ({platform.system()})")
         self.engine = XM5BurnInEngine(app_ref=self)
         self.phase_radios = []  # Store phase radio buttons for enabling/disabling
         self._setup_ui()

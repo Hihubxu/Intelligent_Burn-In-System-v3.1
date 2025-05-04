@@ -1,6 +1,6 @@
 # Intelligent_Burn-In-System-v3.1
 
-This Python GUI application simulates an intelligent headphone burn-in process, specifically designed for the Sony WH-1000XM5, but it is generalizable to other headphones as well.
+This Python GUI application simulates an intelligent headphone burn-in process, specifically designed for the  WH-1000XM5, but it is generalizable to other headphones as well.
 
 ---
 
